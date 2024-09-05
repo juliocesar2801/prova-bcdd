@@ -1,0 +1,58 @@
+create database prova22c;
+
+CREATE table produtos(
+id_compra int,
+id_fornecedor int,
+data_compra int
+);
+
+insert into cliente (id_cliente,iner, nome , quantidade)
+value("1", 1500);
+
+insert into cliente (id_cliente,iner, nome , localizaçao)
+value("2", 423);
+
+insert into cliente (id_cliente,iner, email , telefone)
+value("3", 432);
+
+insert into cliente (id_cliente,iner, email , telefone)
+value("4","3" -4132-);
+
+CREATE TABLE produtos (
+    id_compra INT,
+    id_fornecedor INT,
+    data_compra INT
+);
+insert into cliente (id_cliente,iner, email , telefone)
+value("4","3" 1);
+
+insert into cliente (id_cliente,iner, email , telefone)
+value("4","3" 432);
+
+insert into cliente (id_cliente,iner, email , telefone)
+value("4","3" 432);
+
+insert into cliente (id_cliente,iner, email , telefone)
+value("4","3" 432);
+
+insert into cliente (id_cliente,iner, email , telefone)
+value("4","3" 432);
+
+
+CREATE table produtos(
+id_compra int,
+id_fornecedor int,
+data_compra int
+);
+
+insert into cliente (id_cliente,iner, email , telefone)
+value("4","3" 432);
+
+insert into cliente (id_cliente,iner, email , telefone)
+value("4","3" 432);
+
+insert into cliente (id_cliente,iner, email , telefone)
+value("4","3" 432);
+
+insert into cliente (id_cliente,iner, email , telefone)
+value("4","3" 432);
